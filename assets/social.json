@@ -1,0 +1,50 @@
+[
+  {
+    "1": "My fear of group activities causes problems in my relationships.",
+    "2": "I tend to withdraw from people.",
+    "3": "I become nervous and agitated when I meet someone for the first time.",
+    "4": "I worry so much before presentations that I completely shut down.",
+    "5": "When I am in a group setting, I prefer to blend into the background and not stand out from the crowd.",
+    "6": "I miss opportunities to make a good point because I'm afraid to speak up.",
+    "7": "I blush frequently when talking to others.",
+    "8": "I become tense at casual get-togethers. ",
+    "9": "I become distressed that people might hear my voice tremble when speaking in front of a group.",
+    "10": "I'm extremely uncomfortable in situations where I am expected to socialize. ",
+    "11": "I feel embarrassed when I have to speak in front of a small group of people.",
+    "12": "As much as possible, I avoid situations where I'm required to address others. ",
+    "13": "Having to endure social situations causes me an intense amount of stress.",
+    "14": "Situations, where I am expected to converse with a group of people causes me to have panic attacks. ",
+    "15": "I have a hard time being sociable.",
+    "16": "I go to great lengths to avoid social gatherings.",
+    "17": "My life has been disrupted or negatively impacted because of my anxiety in social situations.",
+    "18": "I worry about having to mingle with people at a party that is more than a month away.",
+    "19": "I become extremely anxious when I'm scheduled to have a one-on-one conversation with someone I don't know very well.",
+    "20": "If most people are already seated in a room, I'm highly unwilling to enter it.",
+    "21": "I feel paralyzed and speechless when someone I don't know starts talking to me.",
+    "22": "I feel that my fear of social contact is excessive."
+  },
+  {
+    "1": {
+      "a": "Never",
+      "b": "Rarely",
+      "c": "Sometimes",
+      "d": "Often",
+      "e": "Very Often"
+    }
+  },
+  {
+    "1": "Examine each statement and indicate the degree to which it applies to you, or to which degree you assume it. Answer honestly in order to improve the quality of your results."
+  },
+
+  {
+    "a": "Never",
+    "b": "Rarely",
+    "c": "Sometimes",
+    "d": "Often",
+    "e": "Very often"
+  },
+
+  {
+    "Name" : "Social Anxiety Test"
+  }
+]

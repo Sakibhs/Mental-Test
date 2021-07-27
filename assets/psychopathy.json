@@ -1,0 +1,42 @@
+[
+  {
+    "1": "Most of my problems are due to the fact that other people just don't understand me.",
+    "2": "I enjoy manipulating other people's feelings.",
+    "3": "Success is based on survival of the fittest; I am not concerned about the losers.",
+    "4": "Most would describe me as charming and nonchalant — I can turn my charm on and off like a faucet.",
+    "5": "I have no problem or concern in lying in order to get what I want.",
+    "6": "For me, what's right is whatever I can get away with.",
+    "7": "I do whatever I feel like doing, and I don’t care what others think — or even if it’s illegal.",
+    "8": "Making a lot of money is my most important goal.",
+    "9": "I do what I want, when I want, the moment the impulse strikes me, regardless of what others want.",
+    "10": "I find that I am able to pursue one goal for a long time.",
+    "11": " I tell other people what they want to hear so that they will do what I want them to do.",
+    "12": "I think people who are stupid enough to get ripped off usually deserve it.",
+    "13": "I let others worry about higher values; my main concern is with the bottom line.",
+    "14": "Looking out for myself is my top priority.",
+    "15": "My main purpose in life is to get as many goodies as I can.",
+    "16": "In today's world, I feel justified in doing anything I can get away with to succeed.",
+    "17": "Every person for themselves; I don’t see the point in feeling sorry for other people and have no desire to help others.",
+    "18":"I never feel remorse, shame or guilt about something I’ve said or done."
+
+  },
+  {
+    "1": {
+      "a": "Not me",
+      "b": "This describes me somewhat",
+      "c": "This is definitely me"
+    }
+  },
+  {
+    "1": "For each item, indicate how much you agree or disagree with the statement. Take your time and answer truthfully for the most accurate results."
+  },
+
+  {
+    "a": "Not me",
+    "b": "This describes me somewhat",
+    "c": "This is definitely me"
+  },
+  {
+    "Name" : "Psychopathy Test"
+  }
+]

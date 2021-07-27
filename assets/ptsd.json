@@ -1,0 +1,43 @@
+[
+  {
+    "1": "I have been very emotionally upset when reminded of a trauma (like becoming very scared, angry, sad, afraid, etc.",
+    "2": "I have been making efforts to avoid situations, activities or places that remind me of a trauma",
+    "3": "There are any important parts of a trauma that I still can't remember",
+    "4": "I have felt distant or cut off from other around me.",
+    "5": "I had upsetting thoughts or images about a trauma that came into my head when I didn't want them to",
+    "6": "I have felt emotionally numb (for example, feel sad but can't cry, unable to have loving feelings",
+    "7": "I have felt that any future plans or hopes have changed because of a trauma",
+    "8": "I am having problems falling or staying asleep",
+    "9": "I am having nightmares or bad dreams about a trauma",
+    "10": "I have been more irritable or having outbreaks of anger",
+    "11": "I am having more difficulty concentrating (like losing track of a story on television, moving in and out of conversations, difficulty in remembering what I have read)",
+    "12": "I have been trying not to think about or have feelings associated with the trauma",
+    "13": "I have found that I am not interested in things that I used to enjoy doing",
+    "14": "I had the experience of reliving a trauma, acting or feeling as if it were happening again",
+    "15": "I am having physical reaction (like fast heart beats, break out in a sweat) when reminded of a trauma",
+    "16": "I have been overly alert (for example, checking to see who is around me, uncomfortable with your back to a door, etc)",
+    "17": "You have been alert or jumpier more easily (like when someone wakes behind you)"
+  },
+  {
+    "1": {
+      "a": "Not at all",
+      "b": "Once per week",
+      "c": "A few times per week",
+      "d": "Several times per week"
+    }
+  },
+  {
+    "1": "In the past two weeks how often have you had the following issues? Tap \"Continue\" to start."
+  },
+
+  {
+    "a": "Not at all",
+    "b": "Once per week",
+    "c": "A few times per week",
+    "d": "Several times per week"
+  },
+
+  {
+    "Name" : "PTSD Test"
+  }
+]

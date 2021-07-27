@@ -1,0 +1,65 @@
+[
+  {
+    "1": "How long do you spend each day repeating thoughts or behaviors?",
+    "2": "How able are you to control these thoughts or behaviors?",
+    "3": "How upset do these thoughts or behavior make you?",
+    "4": "Do these thoughts and behaviours cause problems with school, your job, or your life in general(for example, with your family or friends)?",
+    "5": "Do these thoughts and behaviors stop you doing things you want to do, like visiting people or places?"
+  },
+  {
+    "1": {
+      "a": "No time at all",
+      "b": "Less than an hour",
+      "c": "A few hours",
+      "d": "Several hours",
+      "e": "Most of the day"
+    },
+    "2": {
+      "a": "Extremely able",
+      "b": "Very able",
+      "c": "Somewhat able",
+      "d": "Not very able",
+      "e": "Completely unable"
+    },
+
+    "3": {
+      "a": "Not at all",
+      "b": "Slightly",
+      "c": "Somewhat",
+      "d": "Very",
+      "e": "Extremely"
+    },
+
+    "4": {
+      "a": "Not at all",
+      "b": "Sometimes",
+      "c": "Often",
+      "d": "Frequently",
+      "e": "All the time"
+    },
+
+    "5": {
+      "a": "Not at all",
+      "b": "Sometimes",
+      "c": "Often",
+      "d": "Frequently",
+      "e": "All the time"
+    }
+
+  },
+  {
+    "1": "If you have experienced problems with repeated intrusive thoughts or felt compelled to perform particular acts repeatedly in the last 2 weeks, the following questions ask you to describe your symptoms over the last 7 days. Tap \"Continue\" to start."
+  },
+
+  {
+    "a": "No time at all",
+    "b": "Less than an hour",
+    "c": "A few hours",
+    "d": "Several hours",
+    "e": "Most of the day"
+  },
+  {
+    "Name" : "Repetitive Thoughts and Behavior Test"
+  }
+
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "1": "It is difficult to find out what other people expect from me.",
+    "2": "Most of the time I don't know how to act in social situations.",
+    "3": "Sometimes I have to cover my ears to avoid painful noises (like pressure cooker bell or people talking too loudly)",
+    "4": "While talking to someone, I have a hard time to mention when I need to speak and when I need to listen ",
+    "5": "It is difficult for me to understand how opposite person is feeling while we are talking.",
+    "6": "I get extremely upset when the way I like to do things is suddenly changed.",
+    "7": "I take everything too literally, for this reason I often miss what someone is trying to say.",
+    "8": "It can be very hard to observe someone's face, hand, and body movements when we are talking.",
+    "9": "Some basic textures that do not bother others feel very offensive when they touch my skin.",
+    "10": "I have trouble making friends and also have trouble being socialized",
+    "11": "When I feel overwhelmed by my sense, I have to isolate myself to get rid of them.",
+    "12": "It is very difficult for me to work and co-operate in groups."
+
+  },
+  {
+    "1": {
+      "d": "True both now & when younger",
+      "c": "True for now",
+      "b": "True when younger",
+      "a": "Never true"
+    }
+  },
+  {
+    "1": "This is a basic measurement to assist you to determine whether you might have autism disorder that needs professional consultancy."
+  },
+
+  {
+    "d": "True both now & when younger",
+    "c": "True for now",
+    "b": "True when younger",
+    "a": "Never true"
+  },
+
+  {
+    "Name" : "Autism Test"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "1": "Do you ever exaggerate your talents or accomplishments?",
+    "2": "Do others perceive you as arrogant or haughty?",
+    "3": "Do you expect total compliance from others?",
+    "4": "How likely are you to experience heightened jealousy about the success or accomplishments of others?",
+    "5": "Do you experience an exaggerated sense of self-importance?",
+    "6": "How likely are you to insist on having the best of everything (office, car, home, etc.)?",
+    "7": "Do you engage in fantasies about being successful, powerful, or beautiful?",
+    "8": "How likely are you to expect special treatment or favors from others?",
+    "9": "Do you require constant admiration from others?",
+    "10": "How likely are you to assume that others are jealous of your talents and success?",
+    "11": "Do you expect to be seen as superior to other people?",
+    "12": "Do you struggle to recognize the emotions and needs of other people?"
+    },
+  {
+    "1": {
+      "a": "Never",
+      "b": "Rarely",
+      "c": "Sometimes",
+      "d": "Often",
+      "e": "Very Often"
+    }
+  },
+  {
+    "1": "Read the following question carefully, and find out whether you have a \"Narcissistic Personality Disorder\" symptoms or not."
+  },
+
+  {
+    "a": "Never",
+    "b": "Rarely",
+    "c": "Sometimes",
+    "d": "Often",
+    "e": "Very often"
+  },
+
+  {
+    "Name" : "NPD Test"
+  }
+]

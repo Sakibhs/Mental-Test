@@ -1,0 +1,32 @@
+[
+  {
+    "1": "I've been unable to stay in one place like sitting down for any length of time",
+    "2": "I've been very concerned about several things at one time",
+    "3": "I have been agitated, tense, or skittish",
+    "4": "I have been unable to feel calm or relaxed",
+    "5": "I have struggled to control feelings of anxiety, agitation, or fear",
+    "6": "I have felt bad-tempered, irritable, or moody",
+    "7": "I have been afraid or panicky about bad things that might happen to myself or others"
+  },
+  {
+    "1": {
+      "a": "Never",
+      "b": "Some of the time",
+      "c": "Most of the time",
+      "d": "Nearly all the time"
+    }
+  },
+  {
+    "1": "Over the last 2 weeks, how often have you been bothered by any of the following problems? Tap \"Continue\" to start."
+  },
+
+  {
+    "a": "Never",
+    "b": "Some of the time",
+    "c": "Most of the time",
+    "d": "Nearly all the time"
+  },
+  {
+    "Name" : "Anxiety Test"
+  }
+]

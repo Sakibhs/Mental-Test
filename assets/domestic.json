@@ -1,0 +1,40 @@
+[
+  {
+    "1": "My partner criticize and embarrass me in front of others.",
+    "2": "My partner threaten to harm me.",
+    "3": "I feel that nothing I do is ever good enough for my partner.",
+    "4": "My partner doesn't allow me to go out and doing things that I want to do.",
+    "5": "I feel anxious or nervous when I am around my partner.",
+    "6": "My partner says that if I try to leave then my partner will himself/herself or me.",
+    "7": "I am afraid of telling a different opinion than my partner.",
+    "8": "There is always an excuse for my partner's behavior for example - \"The alcohol or drug made me do it! My job is too stressful! If dinner was on time I wouldn't have hit you! I was just joking!\"",
+    "9": "My partner is jealous, such as accusing me of having affairs.",
+    "10": "I feel obligated or coerced into having sex with my partner.",
+    "11": "I lie to my family, friends and doctor about my bruises, cuts and scratches.",
+    "12": "I avoid seeing my friends and family because of my partner's behavior.",
+    "13": "My partner's behavior makes me feel as if I am wrong.",
+    "14": "I try to please my partner rather than myself in order to avoid being hurt.",
+    "15": "My partner check up on what I have been doing, and not believe my answer.",
+    "16": "I observe what I am doing in order to avoid making my partner angry or upset."
+
+  },
+  {
+    "1": {
+      "a": "No",
+      "b": "Sometimes",
+      "c": "Often"
+    }
+  },
+  {
+    "1": "This is a screening measure to help you determine whether you are in an abusive relationship that needs attention."
+  },
+
+  {
+    "a": "No",
+    "b": "Sometimes",
+    "c": "Often"
+  },
+  {
+    "Name" : "Domestic Violence Test"
+  }
+]

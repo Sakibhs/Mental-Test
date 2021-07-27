@@ -1,0 +1,40 @@
+[
+  {
+    "1": "I see or hear things that other people cannot see or hear",
+    "2": "I have heard two or more voices conversing with one another in voices that other people would not be able to hear",
+    "3": "I think other people can sometimes read my mind, or I can read other's minds",
+    "4": "I sometimes have trouble distinguishing whether something I experience or perceive may be real or may only be part of my imagination or my dreams",
+    "5": "I sometimes find that something interrupts or controls my thoughts, feelings, or actions",
+    "6": "I believe that someone may be planning to cause me harm, or may be about to cause me harm in the near future",
+    "7": "I have had the experience of being completely unable to speak",
+    "8": "I believe I have special or supernatural gifts beyond my natural talents",
+    "9": "I sometimes feel completely unresponsive emotionally, as if I don't feel anything",
+    "10": "I have trouble speaking the words I want to say, or I am able to speak but other people have told me that what I say is irrelevant",
+     "11": "I have heard one or more people mumbling or talking about my behavior or my thoughts in voices that other people would not be able to hear",
+     "12": "I have difficulty getting myself organized to complete any kind of daily activity",
+     "13": "I think I may be able to predict what will happen in the future",
+     "14": "As a result of starting to have some of the experiences listed in the previous questions, I have experienced significant problems with work, my relationships or social activities, or my ability to look after myself"
+  },
+  {
+    "1": {
+      "a": "Not at all",
+      "b": "Yes Slightly",
+      "c": "Yes somewhat or moderately",
+      "d": "Yes Definitely"
+    }
+  },
+  {
+    "1": "Indicate the extent to which they are true or false for each of the following statements. Tap \"Continue\" to start."
+  },
+
+  {
+    "a": "Not at all",
+    "b": "Yes Slightly",
+    "c": "Yes somewhat or moderately",
+    "d": "Yes Definitely"
+  },
+
+  {
+    "Name" : "Schizophrenia Test"
+  }
+]

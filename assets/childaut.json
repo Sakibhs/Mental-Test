@@ -1,0 +1,39 @@
+[
+  {
+    "1": "Your child struggles to understand other people's feelings",
+    "2": "Your child is over or undersensitive to smells, tastes or touch.",
+    "3": "Your child show little awareness of dangerous situation.",
+    "4": "Your child speaks very little and give unrelated answer to questions.",
+    "5": "Your child struggles to socialize with other children.",
+    "6": "Your child engage in games of pretend with other children.",
+    "7": "Your child avoids physical contact.",
+    "8": "Your child has obsessive interests.",
+    "9": "Your child easily gets upset by small changes.",
+    "10": "Your child doesn't respond to his/her name or avoid eye contact."
+
+  },
+  {
+    "1": {
+      "a": "Never",
+      "b": "Rarely",
+      "c": "Sometimes",
+      "d": "Often",
+      "e": "Very often"
+    }
+  },
+  {
+    "1": "Read each statement carefully, and indicate how often your child has experienced the same or similar task in the past few months. Note that some suddenly or rarely behaviors are appropriate for your young child and are not signs of autism "
+  },
+
+  {
+    "a": "Never",
+    "b": "Rarely",
+    "c": "Sometimes",
+    "d": "Often",
+    "e": "Very often"
+  },
+
+  {
+    "Name" : "Eating Disorder Test"
+  }
+]

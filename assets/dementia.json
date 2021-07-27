@@ -1,0 +1,38 @@
+[
+  {
+    "1": "Do you have trouble following instructions, like a recipe or directions?",
+    "2": "Do you find yourself becoming confused in the middle of a conversion and having to stop?",
+    "3": "Do you struggle to keep track of finances or pay bills on time?",
+    "4": "Do you ever forget information that you have learned recently?",
+    "5": "Have you or others noticed changes in your personality, such as easily becoming upset or anxious?",
+    "6": "Do you struggle to remember to keep yourself clean or practice good hygiene?",
+    "7": "Do you have to ask for the same information again or need reminder notes?",
+    "8": "Do you experience visual problems, such as trouble with reading or analysing distance or color?",
+    "9": "Do you struggle to remember words, date, or events?"
+
+  },
+  {
+    "1": {
+      "a": "Never",
+      "b": "Rarely",
+      "c": "Sometimes",
+      "d": "Often",
+      "e": "Very often"
+    }
+  },
+  {
+    "1": "Please read each question carefully, and indicate how often you have experienced the same or similar challenges in the past few months."
+  },
+
+  {
+    "a": "Never",
+    "b": "Rarely",
+    "c": "Sometimes",
+    "d": "Often",
+    "e": "Very often"
+  },
+
+  {
+    "Name" : "Dementia Test"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "1": "Does your child engage in awkward mannerisms or movements?",
+    "2": "Does your child struggle to return eye contact or maintain a back-and-forth conversation?",
+    "3": "Does your child obsess over unusual subjects?",
+    "4": "Does your child engage in repetitive or robotic speech?",
+    "5": "Does your child struggle to understand social or emotional dynamics?",
+    "6": "Is your child more likely to discuss self than other people?",
+    "7": "Does your child have limited social interactions or inappropriate ones?",
+    "8": "Does your child have average or above average verbal skills but struggle to understand non-verbal communication?"
+  },
+  {
+    "1": {
+      "a": "Never",
+      "b": "Rarely",
+      "c": "Sometimes",
+      "d": "Often",
+      "e": "Ver often"
+    }
+  },
+  {
+    "1": "Read each question carefully and point out how often your child has experienced the same or similar challenges in the past few months. Please beware that some behaviors are developmentally appropriate for your young child and are not signs of Asperger Syndrome."
+  },
+
+  {
+    "a": "Never",
+    "b": "Rarely",
+    "c": "Sometimes",
+    "d": "Often",
+    "e": "Ver often"
+  },
+  {
+    "Name" : "CAS Test"
+  }
+]

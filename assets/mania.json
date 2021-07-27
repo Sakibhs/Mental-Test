@@ -1,0 +1,38 @@
+[
+  {
+    "1": "I have talked much more, or faster, than normal for more than a week",
+    "2": "I have experienced persistently increased goal-directed activity for more than a week.",
+    "3": "I've been much more active than normal",
+    "4": "I have felt more self-assured than normal.",
+    "5": "I have experienced a persistent elevated or irritable mood for more than a week.",
+    "6": "I have notice (or others comment) that you are easily distracted.",
+    "7": "I have experienced inflated self-esteem or grandiose thoughts about myself.",
+    "8": "I have felt much more upbeat than normal.",
+    "9": "I have experienced racing thoughts or a flight of ideas.",
+    "10": "I have needed less sleep than normal."
+  },
+  {
+    "1": {
+      "a": "Never",
+      "b": "Rarely",
+      "c": "Sometimes",
+      "d": "Often",
+      "e": "Very Often"
+    }
+  },
+  {
+    "1": "The following statements refer to your thoughts and behaviors over the past 7 days."
+  },
+
+  {
+    "a": "Never",
+    "b": "Rarely",
+    "c": "Sometimes",
+    "d": "Often",
+    "e": "Very often"
+  },
+
+  {
+    "Name" : "Mania Test"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "1": "How many panic attacks have you experienced in the past 7 days?",
+    "2": "If you had one or more panic attacks, in how much distress did you find yourself while they occurred?",
+    "3": "In the past 7 days, how many activities have you avoided because they might cause panic attack-like symptoms such as shortness of breath?",
+    "4": "Over the past 7 days, to what extent have you avoided a situation or place because you were concerned about having another panic attack?",
+    "5": "In the past 7 days, how many times did panic attacks, or concern about having another attack, cause you difficulty in fulfilling responsibilities at work or home?",
+    "6": "Over the past 7 days, how often did panic attacks, or concern about having another attack, prevent you from attending social events?",
+    "7": "Over the past 7 days, how concerned have you been that another panic attack may occur?"
+  },
+  {
+    "1": {
+      "a": "None",
+      "b": "One or two",
+      "c": "Three or four",
+      "d": "Five or six",
+      "e": "Seven or more"
+    },
+    "2": {
+      "a": "None at all",
+      "b": "Mild",
+      "c": "Moderate",
+      "d": "Severe",
+      "e": "Extreme"
+    },
+    "3": {
+      "a": "None",
+      "b": "One or two",
+      "c": "Three or four",
+      "d": "Five or six",
+      "e": "Seven or more"
+    },
+    "4": {
+      "a": "No avoidance",
+      "b": "Minor avoidance",
+      "c": "Some avoidance",
+      "d": "Much avoidance",
+      "e": "Extreme avoidance"
+    },
+    "5": {
+      "a": "Not at all",
+      "b": "Once or twice",
+      "c": "Three or four times",
+      "d": "Five or six times",
+      "e": "Seven or more times"
+    },
+    "6": {
+      "a": "Not at all",
+      "b": "Once or twice",
+      "c": "Three or four times",
+      "d": "Five or six times",
+      "e": "Seven or more times"
+    },
+    "7": {
+      "a": "No concern",
+      "b": "Occasional concern",
+      "c": "Frequent concern",
+      "d": "Very frequent concern",
+      "e": "Always concern"
+    }
+  },
+  {
+    "1": "For the following questions a panic attack is defined as a fear of losing control or death, coupled with symptoms such as a rapid, pounding pulse, sweating, chills, nausea, tightness of chest, or shortness of breath. Tap \"Continue\" to start."
+  },
+
+  {
+    "a": "Complete control",
+    "b": "Much control",
+    "c": "Moderate control",
+    "d": "A little control",
+    "e": "No control at all"
+  },
+
+  {
+    "Name" : "Panic Disorder Test"
+  }
+]

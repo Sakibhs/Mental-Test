@@ -1,0 +1,38 @@
+[
+  {
+    "1": "These situations have had a physical impact on me like (Feeling faint, difficulty breathing, dizzy, or trembling)",
+    "2": "These situations have made me tense or nervy, I have struggle to remain calm",
+    "3": "These situations have created significant feeling of worry and anxiety",
+    "4": "I have stayed near the exits or otherwise left these situations early",
+    "5": "I have made efforts to avoid these situations",
+    "6": "These situations have caused panic attacks, physical discomfort, or feeling of loosing control",
+    "7": "These situations have created feeling of fear, panic, or alarm",
+    "8": "I have either over-prepared for these situations or put off being in.",
+    "9": "I have done and thought about other things so as not to worry about being in these situation",
+    "10": "In order to get through these situations, I have used alcohol or otherwise self medicated or relied on superstitious"
+  },
+  {
+    "1": {
+      "a": "Never",
+      "b": "Some of the time",
+      "c": "Half of the time",
+      "d": "Most of the time",
+      "e": "All of the time"
+    }
+  },
+  {
+  "1": "Answer the following questions according to experiences of your last 7 days in public places (like meeting places, social events, crowded places and public transport). Tap \"Continue\" to start."
+  },
+
+  {
+    "a": "Never",
+    "b": "Some of the time",
+    "c": "Half of the time",
+    "d": "Most of the time",
+    "e": "All of the time"
+  },
+  {
+    "Name" : "Agoraphobia Test"
+  }
+
+]

@@ -1,0 +1,36 @@
+[
+  {
+    "1": "You got much less sleep than usual and found you didn't miss it at all.",
+    "2": "Thought raced through your head or you couldn't slow down your mind.",
+    "3": "You were so easily distracted by things around you that you had trouble concentrating or staying on track.",
+    "4": "You had much more energy than usual.",
+    "5": "You felt so good or hyper that other people thought you were not your normal self or you were so hyper that you got into trouble.",
+    "6": "You were much more active or did many more things than usual.",
+    "7": "You were much more social or outgoing than usual, for example, you called friends by your phone in the middle of the night.",
+    "8": "You were much more interested in sex than usual.",
+    "9": "You were so irritable that you shouted at people or started fights or arguments.",
+    "10": "You did things that were unusual for you or that other people might have thought were excessive, foolish, or risky",
+    "11": "You cry and smile at the same time or you notice your mood were changing very fast",
+    "12": "You were much more talkative or spoke much faster than usual",
+    "13": "You felt much more self confident than usual."
+
+  },
+  {
+    "1": {
+      "b": "Yes",
+      "a": "No"
+    }
+  },
+  {
+    "1": "Have there been times when you felt like a different person and the following happened to you?"
+  },
+
+  {
+    "b": "Yes",
+    "a": "No"
+  },
+
+  {
+    "Name" : "Bipolar Disorder Test"
+  }
+]

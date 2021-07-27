@@ -1,0 +1,36 @@
+[
+  {
+    "1": "Do you feel suspicious of people who have acted loyally towards you?",
+    "2": "Do you respond with hostility or anger when you feel insulted?",
+    "3": "Do you suspect that your romantic partner is unfaithful?",
+    "4": "Are you ever suspicious of other people or question their motives?",
+    "5": "Do you hesitate to believe others?",
+    "6": "Do you hold grudges?",
+    "7": "Do you believe people are trying to harm or trick you, even if there’s no evidence?",
+    "8": "Do you perceive nonthreatening remarks as insults or as personal attacks?"
+  },
+  {
+    "1": {
+      "a": "Never",
+      "b": "Rarely",
+      "c": "Sometimes",
+      "d": "Often",
+      "e": "Very Often"
+    }
+  },
+  {
+    "1": "Please read each question carefully, and indicate how often you have experienced the same or similar challenges in the past few months."
+  },
+
+  {
+    "a": "Never",
+    "b": "Rarely",
+    "c": "Sometimes",
+    "d": "Often",
+    "e": "Very often"
+  },
+
+  {
+    "Name" : "PPD Test"
+  }
+]

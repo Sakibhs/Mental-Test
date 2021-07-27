@@ -1,0 +1,38 @@
+[
+  {
+    "1": "I have felt a racing heart, sweaty, trouble breathing, faint or shaky when separated.",
+    "2": "I have distracted myself to avoid thinking about being separated.",
+    "3": "I have spent a lot of time preparing for how to deal with separation",
+    "4": "I have avoided going places where I would be separated.",
+    "5": "I have felt moments of sudden terror, fear, or fight when separated.",
+    "6": "I have needed help to cope with separation(e.g. alcohol or medications, superstitious objects)",
+    "7": "I have felt restlessness, or had trouble relaxing or trouble sleeping when separated.",
+    "8": "I have had thoughts about bad things happening to people important to me or bad things happening to me when separated from them(e.g. accidents, departure for a long time)",
+    "9": "I have left places early to go home when separated.",
+    "10": "I have felt anxious, worried, or nervous about being separated."
+  },
+  {
+    "1": {
+      "a": "Never",
+      "b": "Rarely",
+      "c": "Sometimes",
+      "d": "Often",
+      "e": "Very Often"
+    }
+  },
+  {
+    "1": "The following statements indicate about your thoughts, feelings and behaviors that you have about being separated from home or from your close people. Think only about past 7 days, choose how often the following statements are true for you."
+  },
+
+  {
+    "a": "Never",
+    "b": "Rarely",
+    "c": "Sometimes",
+    "d": "Often",
+    "e": "Very often"
+  },
+
+  {
+    "Name" : "PPD Test"
+  }
+]

@@ -1,0 +1,51 @@
+[
+  {
+    "1": "My partner and I trust each other completely.",
+    "2": "When things aren’t going so well, my partner supports me",
+    "3": "I am satisfy with my sex life.",
+    "4": "I anticipate the time that my partner and I spend together.",
+    "5": "My partner wants to hear my stories.",
+    "6": "My partner considers our relationship to be the most important in their life.",
+    "7": "I am open and truthful with my partner.",
+    "8": "My partner likes to share what's on his or her mind.",
+    "9": "I feel hopeful about our future.",
+    "10": "My partner confides in me.",
+    "11": "My partner respects me.",
+    "12": "My partner is there for me in hard times.",
+    "13": "My partner enjoys my company and finds me entertaining.",
+    "14": "I am allowed to think for myself.",
+    "15": "My partner thinks highly of me",
+    "16": "I'm in the relationship I had always hoped to be in.",
+    "17": "I am honest with my partner.",
+    "18": "My partner holds me in high regard.",
+    "19": "We often do fun things together.",
+    "20": "I know my partner feels like he/she could rely on me if he/she needed me",
+    "21": "My partner still finds me desirable.",
+    "22": "My partner still considers me sexually attractive.",
+    "23": "My partner is my primary source of emotional support.",
+    "24": "My partner lets me hold my own opinions.",
+    "25": "I know I could rely on my partner if I needed his/her.",
+    "26": "My partner respects and is grateful for what I do.",
+    "27": "My partner is interested in my life and the details of it.",
+    "28": "My partner cares if I am upset or sad.",
+    "29": "My partner has no plans to leave me.",
+    "30": "My partner regularly tells me that he or she loves me."
+  },
+  {
+    "1": {
+      "b": "No",
+      "a": "Yes"
+    }
+  },
+  {
+    "1": "For each following statements answer yes or no."
+  },
+
+  {
+    "a": "No",
+    "b": "Yes"
+  },
+  {
+    "Name" : "Relationship Hamper Status Test"
+  }
+]

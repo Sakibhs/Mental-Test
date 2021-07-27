@@ -1,0 +1,46 @@
+[
+  {
+    "1": "I would rather spend time online than do things around the house.",
+    "2": "I check my social media, text messages, or emails first thing after waking up.",
+    "3": "I put off things I have to do by using my computer or smartphone.",
+    "4": "I use the internet to escape from my real life.",
+    "5": "I stay up later at night than I had intended due to doing things online.",
+    "6": "My performance in school or at work suffers because of the amount of time I spend online.",
+    "7": "I find myself using my smartphone or computer longer than I planned to.",
+    "8": "I would rather stay home and use the internet than go out with friends.",
+    "9": "When I am unable to use my smartphone, I miss it or think about what I could be doing online.",
+    "10": "I am bothered when people interrupt me while I am using my computer or smartphone.",
+    "11": "I have tried to reduce my smartphone or internet use without success.",
+    "12": "People close to me are concerned about the amount of time I spend on my smartphone or computer.",
+    "13": "I am concerned about missing out on thing online when not checking my smartphone.",
+    "14": "I would be less interesting and happy without access to the internet.",
+    "15": "I would rather be on my smartphone or computer than interact with my partner.",
+    "16": "My productivity and attentiveness suffers because of the amount of time I spend online.",
+    "17": "I feel anxious when I do not have my smartphone with me.",
+    "18": "When asked what I do online, I prefer not to answer."
+  },
+  {
+    "1": {
+      "a": "Never",
+      "b": "Rarely",
+      "c": "Sometimes",
+      "d": "Often",
+      "e": "Very Often"
+    }
+  },
+  {
+    "1": "Could you be addicted to interfacing with the web with your PC or smartphone? Have you battled to scale back the measure of time you spend on the web? Answer this 20 questions quiz to see if you might be experiencing addiction on the web."
+  },
+
+  {
+    "a": "Never",
+    "b": "Rarely",
+    "c": "Sometimes",
+    "d": "Often",
+    "e": "Very often"
+  },
+
+  {
+    "Name" : "Internet Addiction Test"
+  }
+]

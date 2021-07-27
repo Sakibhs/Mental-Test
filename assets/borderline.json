@@ -1,0 +1,32 @@
+[
+  {
+    "1": "Have you often felt that you lack a clear identity or you just aren't sure who you are from inside?",
+    "2": "Have you engaged in two or more impulsive behaviors such as sudden emotional outbursts, compulsive eating, gambling more than ou can afford, or bingeing alcohol?",
+    "3": "Have you suffered from extreme mood swings?",
+    "4": "Have any of your closest relationships been troubled by a lot of arguments or repeated brakeups?",
+    "5": "Have you made maniac attempts to avoid feelings of abandonment (like, repeated calls to a friend or partner to gain reassurance that they still care)?",
+    "6": "Have you had a sense of overwhelming emptiness or feeling \"Hollow\"?",
+    "7": "Have you deliberately hurt yourself (like physically punched yourself, cut yourself, burned yourself) or made a suicide attempt?",
+    "8": "Have you been angry or irritable much of the time, or responded angrily to those who are close to you?",
+    "9": "Have you often felt detach from reality, like things are imaginary?",
+    "10": "Have you found that you mistrust those around you?"
+  },
+  {
+    "1": {
+      "b": "Yes",
+      "a": "No"
+    }
+  },
+  {
+    "1":"For each of the following statements answer yes or no."
+  },
+
+  {
+    "b": "Yes",
+    "a": "No"
+  },
+
+  {
+    "Name" : "BPD Test"
+  }
+]

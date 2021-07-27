@@ -1,0 +1,37 @@
+[
+  {
+    "1": "I feel shame or guilt about how much I eat.",
+    "2": "I struggle to control when and how much I eat.",
+    "3": "I store food or hide empty food containers.",
+    "4": "I eat more food than pre planned at a meal.",
+    "5": "I eat more quickly than I would like.",
+    "6": "I eat more when I try to restrict how much I eat.",
+    "7": "I hide my eating behavior from loved ones.",
+    "8": "I eat large amount of food even when I am not hungry."
+
+  },
+  {
+    "1": {
+      "a": "Never",
+      "b": "Rarely",
+      "c": "Sometimes",
+      "d": "Often",
+      "e": "Very often"
+    }
+  },
+  {
+    "1": "Read each question carefully, and indicate how often you have the experience of the same or similar challenges in the past few months."
+  },
+
+  {
+    "a": "Never",
+    "b": "Rarely",
+    "c": "Sometimes",
+    "d": "Often",
+    "e": "Very often"
+  },
+
+  {
+    "Name" : "Eating Disorder Test"
+  }
+]

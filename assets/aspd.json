@@ -1,0 +1,39 @@
+[
+  {
+    "1": "Do you consistently fail to fulfill work obligation?",
+    "2": "Do you find yourself unable to empathize with others dealing with difficult situation?",
+    "3": "Do you behave aggressively in any situation?",
+    "4": "Do you consistently fail to fulfill financial obligation?",
+    "5": "Do you repeatedly lie or trick others for your own interest or pleasure?",
+    "6": "If you hurt someone else's feelings, do you lack remorse or guilt?",
+    "7": "Do you fail to plan ahead?",
+    "8": "Do you engage in unnecessary dangerous or risk-taking behavior with no regard for the safety of yourself or others?",
+    "9": "Do you act impulsively?",
+    "10": "Have you ever engaged in criminal behavior?",
+    "11": "Do you use charm or wit to manipulate others for your own benefit?",
+    "12": "Do you consider yourself superior to others?"
+  },
+  {
+    "1": {
+      "e": "Always",
+      "d": "Often",
+      "c": "Sometimes",
+      "b": "Rarely",
+      "a": "Never"
+    }
+  },
+  {
+    "1": "Read each question carefully and answer according to your experience with these thoughts or  behavior since your age of 15"
+  },
+
+  {
+    "e": "Always",
+    "d": "Often",
+    "c": "Sometimes",
+    "b": "Rarely",
+    "a": "Never"
+  },
+  {
+    "Name" : "ASPD Test"
+  }
+]

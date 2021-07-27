@@ -1,0 +1,101 @@
+[
+  {
+    "1": "How much control did you have over your obsessive thoughts",
+    "2": "How much time did you spend performing compulsive behavior",
+    "3": "How much time did your compulsive behaviors interfere with your social or work functioning?",
+    "4": "How much of your time was occupied by obsessive thought?",
+    "5": "How much did these thoughts interfere with your social or work functioning?",
+    "6": "How much distress did your obsessive thought cause you?",
+    "7": "How much of the time did you successfully resist obsessive thoughts?",
+    "8": "How would you have felt if prevented from performing your compulsion(s)?",
+    "9": "How much of the time did you successfully resist the compulsions",
+    "10": "How much control did you have over the compulsive behaviors?"
+  },
+  {
+    "1": {
+      "a": "Complete control",
+      "b": "Much control",
+      "c": "Moderate control",
+      "d": "A little control",
+      "e": "No control at all"
+    },
+    "2": {
+      "a": "None",
+      "b": "Less than one hour per day",
+      "c": "1 to 3 hours per day",
+      "d": "3 to 8 hours per day",
+      "e": "More than 8 hours per day"
+    },
+    "3": {
+      "a": "No interference",
+      "b": "Mild interference",
+      "c": "Moderate interference",
+      "d": "Severe interference",
+      "e": "Extreme interference"
+    },
+    "4": {
+      "a": "None",
+      "b": "Less than one hour per day",
+      "c": "1 to 3 hours per day",
+      "d": "3 to 8 hours per day",
+      "e": "More than 8 hours per day"
+    },
+    "5": {
+      "a": "No interference",
+      "b": "Mild interference",
+      "c": "Moderate interference",
+      "d": "severe interference",
+      "e": "Extreme interference"
+    },
+    "6": {
+      "a": "No distress",
+      "b": "Mild distress",
+      "c": "Moderate distress",
+      "d": "Severe distress",
+      "e": "Extreme distress"
+    },
+    "7": {
+      "a": "All the time",
+      "b": "Most of the time",
+      "c": "Some of the time",
+      "d": "A little bit",
+      "e": "Not at all"
+    },
+    "8": {
+      "a": "Not at all anxious",
+      "b": "Slightly anxious",
+      "c": "Moderate anxious",
+      "d": "Very anxious",
+      "e": "Extreme Anxious"
+    },
+    "9": {
+      "a": "All the time",
+      "b": "Most of the time",
+      "c": "Some of the time",
+      "d": "A little bit",
+      "e" : "Not at all"
+    },
+    "10":  {
+      "a": "Complete control",
+      "b": "Much control",
+      "c": "Moderate control",
+      "d": "A little control",
+      "e": "No control at all"
+    }
+  },
+  {
+    "1": "The following questions refer to any obsessive and intrusive thoughts or compulsive behaviors you have experienced over the last week (Including Today). Tap \"Continue\" to start."
+  },
+
+  {
+    "a": "Complete control",
+    "b": "Much control",
+    "c": "Moderate control",
+    "d": "A little control",
+    "e": "No control at all"
+  },
+
+  {
+    "Name" : "OCD Test"
+  }
+]

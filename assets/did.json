@@ -1,0 +1,59 @@
+[
+  {
+    "1": "You have the experience of driving or riding in a car or bus or subway and suddenly realizing that you don't remember what has happened during all or part of the trip.",
+    "2": "You find that sometimes you are listening to someone talk and you suddenly realize that you did not hear part or all of what was said.",
+    "3": "You have the experience of finding yourself in a place and having no idea how you got there.",
+    "4": "You have the experience of finding yourself dressed in clothes that you don't remember putting on.",
+    "5": "You have the experience of finding new things among your belonging that you do not remember buying.",
+    "6": "You sometimes find that you are approached by people that you do not know who call them by another name or insist that you have met them before.",
+    "7": "You sometimes have the experience of feeling as though you are standing next to yourself or watching yourself do something and you actually see yourself as if you are looking at another person.",
+    "8": "You are told that you sometimes do not recognize friends or family members.",
+    "9": "You find that you have no memory for some important events in your lives (for example, a wedding or graduation).",
+    "10": "You have the experience of being accused of lying when you do not think that you have lied.",
+    "11": "You have the experience of looking in a mirror and not recognizing yourself.",
+    "12": "You have the experience of feeling that other people, objects, and the world around you are not real.",
+    "13": "Some people have the experience of feeling that their body does not seem to belong to them.",
+    "14": "You have the experience of sometimes remembering a past event so vividly that you feel as if you were reliving that event.",
+    "15": "You have the experience of not being sure whether things that you remember happening really did happen or whether you just dreamed them.",
+    "16": "You have the experience of being in a familiar place but finding it strange and unfamiliar.",
+    "17": "You find that when you are watching television or a movie you become so absorbed in the story that you are unaware of other events happening around you.",
+    "18": "You find that you become so involved in a fantasy or daydream that it feels as though it were really happening to you.",
+    "19": "You find that you sometimes you are able to ignore pain.",
+    "20": "You find that that sometimes you sit staring off into space, thinking of nothing, and are not aware of the passage of time.",
+    "21": "You sometimes find that when you are alone talk out loud to yourself.",
+    "22": "You find that in one situation you may act so differently compared with another situation that you feel almost as if you were two different people.",
+    "23": "You sometimes find that in certain situations you are able to do things with amazing ease and spontaneity that would usually be difficult for you (for example, sports, work, social situations, etc.).",
+    "24": "You sometimes find that you cannot remember whether you have done something or have just thought about doing that this (for example, not knowing whether you have just mailed a letter or have just thought about mailing it).",
+    "25": "You find evidence that you have done things that you do not remember doing.",
+    "26": "You sometimes find writings, drawings, or notes among your belongings that you must have done but cannot remember doing.",
+    "27": "You sometimes find that you hear voices inside your head that tell you to do things or comment on things that you are doing.",
+    "28": "You sometimes feel as if you are looking at the world through a fog so that people and objects appear far away or unclear."
+
+  },
+  {
+    "1": {
+      "a": "Never",
+      "b": "Rarely",
+      "c": "Sometimes",
+      "d": "Often",
+      "e": "Usually",
+      "f": "All the time"
+    }
+  },
+  {
+    "1": "For each of the following experiences described, select the amount of time that this happens to you without being influence of alcohol or drugs."
+  },
+
+  {
+    "a": "Never",
+    "b": "Rarely",
+    "c": "Sometimes",
+    "d": "Often",
+    "e": "Usually",
+    "f": "All the time"
+  },
+
+  {
+    "Name" : "DID Test"
+  }
+]

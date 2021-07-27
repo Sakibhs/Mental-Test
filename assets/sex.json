@@ -1,0 +1,47 @@
+[
+  {
+    "1": "Are any of your sexual activities against the law?",
+    "2": "Do you ever think your sexual desire is stronger than you are?",
+    "3": "When you have sex, do you feel depressed afterwards?",
+    "4": "Have you ever sought help for sexual behavior you did not like?",
+    "5": "Have people in your life been upset about your sexual activities online?",
+    "6": "Have you been sexual with minors?",
+    "7": "Were you sexually abused as a child or adolescent?",
+    "8": "Have important parts of your life (such as job, family, friends, leisure activities) been neglected because you were spending too much time on sex?",
+    "9": "Have you spent considerable time and money on strip clubs, adult bookstores and movie houses?",
+    "10": "Do you feel that your sexual behavior is not normal?",
+    "11": "Are you in crisis over sexual matters?",
+    "12": "Do you feel controlled by your sexual desire?",
+    "13": "Did your parents have trouble with your sexual behavior?",
+    "14": "Have you engaged prostitutes and escorts to satisfy your sexual needs?",
+    "15": "Have you subscribed to or regularly purchased or rented sexually explicit materials (like - magazines, videos, books or online pornography)?",
+    "16": "Do you ever feel bad about your sexual behavior?",
+    "17": "Have you spent considerable time surfing pornography online?",
+    "18": "Has sex become the most important thing in your life?",
+    "19": "Do you often find yourself preoccupied with sexual thoughts?",
+    "20": "Have you used the internet to make romantic or erotic connections with people online?",
+    "21": "Have you felt degraded by your sexual behaviors?",
+    "22": "Have you purchased services online for erotic purposes (sites for dating)?",
+    "23": "Have you made efforts to quit a type of sexual activity and failed?",
+    "24": "Do you spend too much time online for sexual purposes?",
+    "25": "Has sex (or romantic fantasies) been a way for you to escape your problems?"
+
+  },
+  {
+    "1": {
+      "a": "No",
+      "b": "Yes"
+    }
+  },
+  {
+    "1": "For each following questions answer yes or no."
+  },
+
+  {
+    "a": "No",
+    "b": "Yes"
+  },
+  {
+    "Name" : "Sex Addiction Test"
+  }
+]

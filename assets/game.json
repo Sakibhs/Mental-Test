@@ -1,0 +1,32 @@
+[
+  {
+    "1": "Do you find that you spend greater amounts of time on the Video Game to achieve satisfaction similar to your earlier use?",
+    "2": "Are you using the Video Game as a way of escaping from problems or relieving a bad mood, (e.g., boredom, frustration, anxiety, anger, shame, or depression, etc.)?",
+    "3": "Do you spend much of time watching YouTube of other video streams of people playing video games?",
+    "4": "Over time, have you been spending much more time playing video games, learning about video game playing, or planning the next opportunity to play?",
+    "5": "After spending what you consider an excessive amount of time on the Video Game, and vowing not to do so the next day, do you find yourself using it again soon after?",
+    "6": "Do you find yourself committing illegal or self-defeating acts related to your use of the Video Game?",
+    "7": "Do you find yourself restless or irritable when attempting to (or forced to) cut down or stop using Video Games? Game?",
+    "8": "Has you work or academic performance been reduced as a direct or indirect result of playing video games?",
+    "9": "Have you had repeated unsuccessful efforts to control, limit, or cut back your Video Game or Video Game use?",
+    "10": "Do you find yourself lying to family members, therapists, or others to conceal the extent of your involvement with Video Games?",
+    "11": "Have you experienced any health problems as a result of your Video Game use?"
+  },
+  {
+    "1": {
+      "a": "No",
+      "b": "Yes"
+    }
+  },
+  {
+    "1": "For each following questions answer yes or no."
+  },
+
+  {
+    "a": "No",
+    "b": "Yes"
+  },
+  {
+    "Name" : "Video Game Addiction Test"
+  }
+]

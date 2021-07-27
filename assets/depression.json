@@ -1,0 +1,35 @@
+[
+  {
+    "1": "I am finding no joy in life, or feeling like I never will again",
+    "2": "I am eating too much, or too little",
+    "3": "Being harsh on myself or overly self-critical",
+    "4": "I am being lethargic or having no energy",
+    "5": "Oversleeping, or struggling to get to sleep",
+    "6": "Being full of nervous energy, or moving much less than usual",
+    "7": "Trouble concentrating on things, such as reading the newspaper or watching television",
+    "8": "Moving or speaking noticeably slower than usual or the opposite - faster than usual",
+    "9": "Considering harming myself, or committing suicide"
+     },
+  {
+    "1": {
+      "a": "Never",
+      "b": "Some of the time",
+      "c": "Most of the time",
+      "d": "Nearly all the time"
+    }
+  },
+  {
+    "1": "Over the last 2 weeks, how often have you been bothered by any of the following problems? Tap \"Continue\" to start."
+  },
+
+  {
+    "a": "Never",
+    "b": "Some of the time",
+    "c": "Most of the time",
+    "d": "Nearly all the time"
+  },
+
+  {
+    "Name" : "Depression Test"
+  }
+]

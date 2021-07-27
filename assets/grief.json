@@ -1,0 +1,28 @@
+[
+  {
+    "1": "How much are you feeling cut off or distant from other people since the death of your close person?",
+    "2": "Are there things you used to do when that person was alive that you don't feel comfortable doing anymore, or that you avoid?",
+    "3": "How much are you having trouble accepting the death of this person?",
+    "4": "How much are you having thoughts about the death that really bother you?",
+    "5": "How much does your grief interfere with your life?"
+  },
+  {
+    "1": {
+      "a": "Not at all",
+      "b": "Somewhat",
+      "c": "A lot"
+    }
+  },
+  {
+    "1": "The following questions relate to the death of your close person."
+  },
+
+  {
+    "a": "Not at all",
+    "b": "Somewhat",
+    "c": "A lot"
+  },
+  {
+    "Name" : "Complicated Grief Test"
+  }
+]
